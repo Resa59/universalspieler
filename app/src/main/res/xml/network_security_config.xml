@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <!-- Several reconstructed 2023 feeds still use HTTP. They remain usable while migrating. -->
+    <base-config cleartextTrafficPermitted="true" />
+</network-security-config>

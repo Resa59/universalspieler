@@ -1,0 +1,8 @@
+<resources>
+    <color name="brand_blue">#0099CB</color>
+    <color name="brand_orange">#FF7000</color>
+    <color name="brand_navy">#063653</color>
+    <color name="brand_pink">#F05D6E</color>
+    <color name="brand_teal">#16A085</color>
+    <color name="surface_warm">#FFFDF8</color>
+</resources>
