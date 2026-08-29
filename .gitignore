@@ -1,0 +1,24 @@
+.gradle/
+.kotlin/
+.idea/
+**/build/
+local.properties
+*.iml
+captures/
+externalNativeBuild/
+.cxx/
+
+# Generated Android packages and local release bundles belong in GitHub Releases,
+# not in the repository history.
+*.apk
+*.aab
+deliverables/
+
+# Signing keys are deliberately distributed separately from source archives.
+*.jks
+*.keystore
+*.p12
+keystore.properties
+signing.properties
+PASSWORD.txt
+KEY_PASSWORD.txt
